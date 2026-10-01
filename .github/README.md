@@ -1,13 +1,8 @@
 # Printseca
 
-Programa que lembra de imprimir, e/ou imprime sozinho, uma página de manutenção a cada poucos dias, para a tinta da impressora não ressecar por falta de uso.
+Programa que lembra de imprimir e/ou imprime sozinho, uma página de manutenção a cada poucos dias, para a tinta da impressora não ressecar por falta de uso.
 
 > **Projeto arquivado.** Esta versão de computador não recebe mais atualizações. O Printseca continua na web, direto no navegador e sem instalar nada: [print.jonathasmotta.com](https://print.jonathasmotta.com).
-
-![Release](https://img.shields.io/github/v/release/jonathaxs/printseca-pc?style=for-the-badge&labelColor=f0f0f0&color=f0f0f0)
-![macOS](https://img.shields.io/badge/macOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-f0f0f0?logo=linux&logoColor=black&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-f0f0f0?logo=windows&logoColor=0078D6&style=for-the-badge)
 
 Impressoras de cartucho e de tanque de tinta que ficam muito tempo paradas podem ressecar e entupir, o que costuma sair caro. O Printseca fica quieto na bandeja do sistema e, quando chega o dia, avisa ou imprime sozinho uma página que passa todas as tintas pela impressora.
 
